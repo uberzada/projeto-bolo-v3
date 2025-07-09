@@ -73,12 +73,12 @@
     section a.port {
       font-weight: bolder;
       color: var(--marrom);
+      padding: 5px;
     }
 
     section a.port:hover {
       background-color:rgba(0, 0, 0, 0.267);
       border-radius: 5px;
-      padding: 5px;
     }
     .cards {
       display: flex;
